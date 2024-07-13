@@ -4,16 +4,9 @@
 
 
 export default function() {
-
-
-
-  
   // const balance = useBalance();
-  const balance = 19900;
+  const balance = 999900;
   return <div>
     Hi Merchant your balance is ₹ {balance}
   </div>
-
-
-
 }
