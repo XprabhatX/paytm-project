@@ -13,4 +13,7 @@ export default function() {
   return <div>
     Hi Merchant your balance is ₹ {balance}
   </div>
+
+
+
 }
