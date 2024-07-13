@@ -8,6 +8,6 @@ export default function() {
   // const balance = useBalance();
   const balance = 19900;
   return <div>
-    Hi there Merchant your balance if ₹ {balance}
+    Hi Merchant your balance is ₹ {balance}
   </div>
 }
